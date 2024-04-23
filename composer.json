@@ -1,5 +1,5 @@
 {
-    "name": "bilfeldt/laravel-request-logger",
+    "name": "plannr/laravel-request-logger",
     "description": "Log Laravel application request and responses for debugging or statistics",
     "keywords": [
         "bilfeldt",
